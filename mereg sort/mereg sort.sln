@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mereg sort", "mereg sort\mereg sort.vcxproj", "{D7D0476C-7A8E-4F89-B2F0-C0E7EA013D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D0476C-7A8E-4F89-B2F0-C0E7EA013D42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7D0476C-7A8E-4F89-B2F0-C0E7EA013D42}.Debug|Win32.Build.0 = Debug|Win32
+		{D7D0476C-7A8E-4F89-B2F0-C0E7EA013D42}.Release|Win32.ActiveCfg = Release|Win32
+		{D7D0476C-7A8E-4F89-B2F0-C0E7EA013D42}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
